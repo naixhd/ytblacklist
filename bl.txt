@@ -6,6 +6,7 @@ www.gstatic.com
 gstatic.com
 clients1.google.com
 dts.innovid.com
+
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 pagead2.googlesyndication.com
