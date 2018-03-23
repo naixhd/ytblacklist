@@ -5,7 +5,6 @@ ads.youtube.com
 www.gstatic.com
 gstatic.com
 clients1.google.com
-g.co
 dts.innovid.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
